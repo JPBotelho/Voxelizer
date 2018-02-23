@@ -12,9 +12,9 @@ Apply the shader to your material and play around with the given variable. The m
 
 Here's a before and after using the shader:
 
-![Before Voxelizer](Renders/Before.png "Before Voxelizer")
+![Before Voxelizer](Renders/Before.PNG "Before Voxelizer")
 
-![After Voxelizer](Renders/After.png "After Voxelizer")
+![After Voxelizer](Renders/After.PNG "After Voxelizer")
 
 ![Before Voxelizer](Renders/VoxelizerBefore.png "Before Voxelizer")
 
